@@ -2,7 +2,7 @@
 ![Imagen del proyecto](https://github.com/IsmaelRivela/ConverseAkira/blob/main/assets/Captura%20de%20pantalla%202023-12-02%20131815.png)
 
 ## Ejemplo en vivo
-- [GithubPages](https://ismaelrivela.github.io/ConverseAkira/)
+- [Converse Akira Github Pages](https://ismaelrivela.github.io/ConverseAkira/)
 
 ## Descripción 📑
 
