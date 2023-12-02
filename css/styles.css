@@ -481,6 +481,7 @@ body{
 
 .main__related{
     width: 60%;
+    max-width: 500px ;
     min-height: 20vh;
     /* background-color: burlywood; */
 
